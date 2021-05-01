@@ -48,11 +48,12 @@ button:hover{
     height: 40px;
 }
 #clear{
-    background-color: rgb(255, 40, 40);
+    background-color: rgb(37, 36, 54);
     color: darkGray;
 }
 #clear:hover{
-    background-color: rgb(37, 36, 54);
+    background-color: #444444;
+    color: white;
 }
 input[type="text"]{
     background-color: #444444;
